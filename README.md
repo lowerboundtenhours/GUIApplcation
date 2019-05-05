@@ -37,7 +37,7 @@ If there are the same type widgets, show with the sequential order from input.
 ```
 [Widget_type] must be one of followings:
 	Window
-  Button
+	Button
   
 [look-and-feel_style] must be one of followings:
 	Motif
